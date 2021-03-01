@@ -5,34 +5,8 @@ Adil Al-Busaidi received his Ph.D. from Ohio University in 2014; two Masters deg
 
 ## WEB-BASED APPS
 
-### online app to help students and researchers estimate sample size and statistical power. The app can be accessed at the following URL
- 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+* [An online app](http://72.14.177.21:3838/sampleSize/) to help students and researchers estimate sample size and statistical power
+* An online app ([EgoNetica](http://178.62.22.73:3838/EgoNetica)) for those who are interested in digital marketing, competitive analysis, and brand comparison on Twitter. The app also targets those who are interested in conducting scientific research using Twitter (e.g., content analysis, discourse analysis, textual analysis and Social Network Analysis)
+* An online English app ([TwitterLycs](http://178.62.22.73:3838/twitterlycs_en/)) for data mining (text-mining) that accesses Twitter API to download thousands of Twitter feeds, analyze, run sentiment analysis, download Social Network Analysis Data, and summarize results. 
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aalbusaidi/aalbusaidi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Contact
