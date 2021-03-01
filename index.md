@@ -1,11 +1,12 @@
-## Welcome to GitHub Pages
+# Adil Al-Busaidi
 
-You can use the [editor on GitHub](https://github.com/aalbusaidi/aalbusaidi.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Adil Al-Busaidi received his Ph.D. from Ohio University in 2014; two Masters degrees from Ohio University 2012 and from New Mexico State University 2007, and a BSc from Sultan Qaboos University 2004. Along with his academic credentials, he received extensive training and summer camps by world-renowned scholars in statistics and quantitative psychology from Ohio University, and stats camps at the University of Kansas, and Texas Tech University (Institute for Measurement, Methodology, Analysis & Policy). He is also a Data Scientist by training where he received Data Scientist with R Track by DataCamp [Successfully Completed 26 Courses]. He also received intensive executive and leadership training for 3 years from well-established institutions in USA in areas such as Organizational Development (completed Global Organization Development Certificate Program at NTL, USA[a 3-year program]); Appreciative Inquiry (from Weatherhead School of Management, Case Western Reserve University, USA); Gestalt Coaching (from The Gestalt Institute of Cleveland, USA); Train the Trainer (from The Association for Talent Development, USA (ATD, formerly ASTD)); and T-Group & Human Process (from NTL and Indian Society for Applied Behavioral Science)). 
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+## WEB-BASED APPS
 
+### online app to help students and researchers estimate sample size and statistical power. The app can be accessed at the following URL
+ 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
