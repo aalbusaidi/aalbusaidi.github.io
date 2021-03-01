@@ -2,4 +2,4 @@ theme: jekyll-theme-cayman
 
 title: Adil Al-Busaidi
 description: 
-show_downloads: ["false"]
+show_downloads: "false"
