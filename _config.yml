@@ -1,1 +1,2 @@
-theme: jekyll-theme-minimal
+theme: jekyll-theme-lead-day
+gem "github-pages", group: :jekyll_plugins
